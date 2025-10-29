@@ -2,7 +2,7 @@
 
 This project visualizes the relationship between **study hours** and **exam scores** for two groups of students: **Class A** and **Class B**.  
 Using **Matplotlib**, a scatter plot is generated to compare the performance trends between these two groups.
-From 
+Frm 
 
 --- 
 
